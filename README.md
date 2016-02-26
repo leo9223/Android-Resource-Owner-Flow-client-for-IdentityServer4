@@ -4,7 +4,7 @@
 1. You have got AuthorizationServer(idSvrHost) and ResourceServer(SampleApi) from the 
 official repo
 https://github.com/IdentityServer/IdentityServer4.Samples
-https://github.com/IdentityServer/IdentityServer4.Samples/tree/dev/Mvc/src)
+https://github.com/IdentityServer/IdentityServer4.Samples/tree/dev/Mvc/src
 
 2. You have published AuthorizationServer and working fine (I used IIS 10)
 2. You have published ResourceServer and working fine (I used IIS 10)
@@ -25,6 +25,9 @@ https://github.com/IdentityServer/IdentityServer4.Samples/tree/dev/Mvc/src)
 
 ###Contribution
 You are warmly welcome to help me in making this code more elegant and adding more features for IdentityServer4. Please ping me at @leo_9223
+
+###Credits
+I would really like to say thanks to @leastprivilege and @brockallen they really help me to complete this.
 
 ###Screen Shots
 
