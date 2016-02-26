@@ -18,4 +18,4 @@
 3. run or debug app in emulator
 
 ###Screen Shots
-![Alt text](img1.png?raw=true "Startup screen")
+
