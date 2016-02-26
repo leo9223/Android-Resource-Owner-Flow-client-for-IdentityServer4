@@ -20,6 +20,10 @@ official repo (https://github.com/IdentityServer/IdentityServer4.Samples, https:
 2. set your deployed IP of AuthorizationServer and ResourceServer in "yourpath...\IDSvr4AndroidClient\app\src\main\java\abubakar\IDSvr4ROClientDroid\constants.java"
 3. run or debug app in emulator
 
+
+###Contribution
+You are warmly welcome to help me in making this code more elegant and adding more features for IdentityServer4. Please ping me at @leo_9223
+
 ###Screen Shots
 
 
