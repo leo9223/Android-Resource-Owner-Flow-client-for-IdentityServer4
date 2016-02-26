@@ -18,11 +18,19 @@
 3. run or debug app in emulator
 
 ###Screen Shots
-Startup screen
+
+
+####Startup screen
 ![Alt text](img1.png?raw=true "Startup screen")
-Access Token
+
+
+####Access Token
 ![Alt text](img2.png?raw=true "Access Token")
-Refresh Token
+
+
+####Refresh Token
 ![Alt text](img3.png?raw=true "Refresh Token")
-Calling Service
+
+
+####Calling Service
 ![Alt text](img4.png?raw=true "Calling Service")
