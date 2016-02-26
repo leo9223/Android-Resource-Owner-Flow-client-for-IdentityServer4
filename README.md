@@ -27,7 +27,9 @@ https://github.com/IdentityServer/IdentityServer4.Samples/tree/dev/Mvc/src
 You are warmly welcome to help me in making this code more elegant and adding more features for IdentityServer4. Please ping me at @leo_9223
 
 ###Credits
-I would really like to say thanks to @leastprivilege and @brockallen they really help me to complete this.
+I would really like to say thanks to [Dominick Baier](https://github.com/leastprivilege) and [Brock Allen](https://github.com/brockallen) they really help me to complete this.
+
+
 
 ###Screen Shots
 
