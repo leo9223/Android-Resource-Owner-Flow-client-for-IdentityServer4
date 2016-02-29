@@ -35,7 +35,9 @@ https://github.com/IdentityServer/IdentityServer4.Samples/tree/dev/Mvc/src
 
 ###Contribution
 You are warmly welcome to help me in making this code more better and adding more functionality of IdentityServer4. Please ping me at @leo_9223
+
 abubakar.ikram@outlook.com
+
 Muhammad Abubakar
 
 ###Credits
