@@ -1,6 +1,6 @@
 ##Android Resource Owner Flow Client for IdentityServer4
 
-[Assumptions](README.md#assumptions) | [Functionality](README.md#features) | [How to run?](README.md#how-to-run) | [Contribution](README.md#contribution) | [Credits](README.md#credits) | [Screen Shots](README.md#screen-shots)
+[Assumptions](README.md#assumptions) | [Functionality](README.md#functionality) | [How to run?](README.md#how-to-run) | [Contribution](README.md#contribution) | [Credits](README.md#credits) | [Screen Shots](README.md#screen-shots)
 
 ###Assumptions
 1. You have got AuthorizationServer(idSvrHost) and ResourceServer(SampleApi) from the 
