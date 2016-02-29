@@ -1,6 +1,6 @@
 ##Android Client for IdentityServer4
 
-[Assumptions](README.md#assumptions) | [Features](README.md#features) | [How to run?](README.md#how-to-run) | [Contribution](README.md#contribution) | [Credits](README.md#credits) | [Screen Shots](README.md#screen-shots)
+[Assumptions](README.md#assumptions) | [Functionality](README.md#features) | [How to run?](README.md#how-to-run) | [Contribution](README.md#contribution) | [Credits](README.md#credits) | [Screen Shots](README.md#screen-shots)
 
 ###Assumptions
 1. You have got AuthorizationServer(idSvrHost) and ResourceServer(SampleApi) from the 
@@ -13,7 +13,7 @@ https://github.com/IdentityServer/IdentityServer4.Samples/tree/dev/Mvc/src
 3. You have Android Studio (I used Android Studio 1.5)
 4. I have used Android Emulator to test this App
 
-###Features
+###Functionality
 1. This App is based on Resource Owner Flow
 2. It is Accessing Token (from AuthorizationServer)
 3. It is Refreshing Token (from AuthorizationServer)
