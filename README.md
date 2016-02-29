@@ -1,6 +1,6 @@
 ##Android Client for IdentityServer4
 
-[Assumptions](README.md#assumptions) | [Features](README.md#features)
+[Assumptions](README.md#assumptions) | [Features](README.md#features) | [How to run?](README.md#how-to-run) | [Contribution](README.md#contribution) | [Assumptions](README.md#assumptions) | [Credits](README.md#credits) | [Screen Shots](README.md#screen-shots)
 
 ###Assumptions
 1. You have got AuthorizationServer(idSvrHost) and ResourceServer(SampleApi) from the 
