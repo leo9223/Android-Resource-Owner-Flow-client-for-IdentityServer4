@@ -1,4 +1,4 @@
-##Android Client for IdentityServer4
+##Android Resource Owner Flow Client for IdentityServer4
 
 [Assumptions](README.md#assumptions) | [Functionality](README.md#features) | [How to run?](README.md#how-to-run) | [Contribution](README.md#contribution) | [Credits](README.md#credits) | [Screen Shots](README.md#screen-shots)
 
