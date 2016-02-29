@@ -1,6 +1,6 @@
 ##Android Client for IdentityServer4
 
-[Assumptions](README.md#assumptions) | [Features](README.md#features) | [How to run?](README.md#how-to-run) | [Contribution](README.md#contribution) | [Assumptions](README.md#assumptions) | [Credits](README.md#credits) | [Screen Shots](README.md#screen-shots)
+[Assumptions](README.md#assumptions) | [Features](README.md#features) | [How to run?](README.md#how-to-run) | [Contribution](README.md#contribution) | [Credits](README.md#credits) | [Screen Shots](README.md#screen-shots)
 
 ###Assumptions
 1. You have got AuthorizationServer(idSvrHost) and ResourceServer(SampleApi) from the 
@@ -26,7 +26,9 @@ https://github.com/IdentityServer/IdentityServer4.Samples/tree/dev/Mvc/src
 
 
 ###Contribution
-You are warmly welcome to help me in making this code more elegant and adding more features for IdentityServer4. Please ping me at @leo_9223
+You are warmly welcome to help me in making this code more better and adding more functionality of IdentityServer4. Please ping me at @leo_9223
+abubakar.ikram@outlook.com
+Muhammad Abubakar
 
 ###Credits
 I would really like to say thanks to [Dominick Baier](https://github.com/leastprivilege) and [Brock Allen](https://github.com/brockallen) they really help me to complete this.
