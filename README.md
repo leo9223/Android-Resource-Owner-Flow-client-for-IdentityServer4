@@ -17,7 +17,7 @@ https://github.com/IdentityServer/IdentityServer4.Samples/tree/dev/Mvc/src
 1. This App is based on Resource Owner Flow
 2. It is Accessing Token (from AuthorizationServer)
 3. It is Refreshing Token (from AuthorizationServer)
-4. It is Calling Service (ResourceServer)
+4. It is Calling Service (from ResourceServer)
 
 ###How to run?
 1. Load project in Android Studio
